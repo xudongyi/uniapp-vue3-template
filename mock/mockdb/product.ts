@@ -3,13 +3,13 @@ export const detail = {
   message: 'OK',
   data: {
     productId: 271,
-    prodName: '2021、12、16商品-12021-12-16',
+    prodName: '2021、12、16平台-12021-12-16',
     pic: 'http://tstatic.mevikycloud.cn/image/wechat/2021/11/19/20a4dca3b6ad4796ac4acde0c74b13038kb27o7hna.jpg',
     newcomersSkuList: [
       {
         id: 94,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 766,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/17/7a3e5b1caf7f4d5a94384fa4d8f190eavglfrutwx0.jpg',
         skuName: '2m',
@@ -22,7 +22,7 @@ export const detail = {
       {
         id: 95,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 767,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/16/564eb58fb2674d2098b40a0a4b47857202ekltdblh.png',
         skuName: '3m',
@@ -34,7 +34,7 @@ export const detail = {
       {
         id: 96,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 768,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/14/4f1120f0a58646a696e1d920d1663563cm9zz66im4.png',
         skuName: '4m',
@@ -46,7 +46,7 @@ export const detail = {
       {
         id: 97,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 769,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/18/c4f1ca43b0ab46b7b7e43d09238a49cfcnfhffvi69.jpg',
         skuName: '5m',
@@ -78,7 +78,7 @@ export const detail = {
       {
         id: 94,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 766,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/17/7a3e5b1caf7f4d5a94384fa4d8f190eavglfrutwx0.jpg',
         skuName: '2m',
@@ -91,7 +91,7 @@ export const detail = {
       {
         id: 95,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 767,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/16/564eb58fb2674d2098b40a0a4b47857202ekltdblh.png',
         skuName: '3m',
@@ -103,7 +103,7 @@ export const detail = {
       {
         id: 96,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 768,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/14/4f1120f0a58646a696e1d920d1663563cm9zz66im4.png',
         skuName: '4m',
@@ -115,7 +115,7 @@ export const detail = {
       {
         id: 97,
         productId: 271,
-        prodName: '2021、12、16商品-12021-12-16',
+        prodName: '2021、12、16平台-12021-12-16',
         skuId: 769,
         pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/18/c4f1ca43b0ab46b7b7e43d09238a49cfcnfhffvi69.jpg',
         skuName: '5m',
@@ -141,7 +141,7 @@ export const detail = {
     minHeap: {
       id: 94,
       productId: 271,
-      prodName: '2021、12、16商品-12021-12-16',
+      prodName: '2021、12、16平台-12021-12-16',
       skuId: 766,
       pic: 'http://tstatic.mevikycloud.cn/image/product/2021/12/17/7a3e5b1caf7f4d5a94384fa4d8f190eavglfrutwx0.jpg',
       skuName: '2m',

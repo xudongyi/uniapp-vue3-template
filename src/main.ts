@@ -1,6 +1,8 @@
 import { createSSRApp } from 'vue'
 import App from './App.vue'
 import { store } from './store'
+import './assets/styles/index.scss' // 引入index.scss
+
 export function createApp() {
   const app = createSSRApp(App)
   uni.getSystemInfo({

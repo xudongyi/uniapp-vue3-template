@@ -9,7 +9,7 @@ export function fetchRecommendGoodsList(data) {
 }
 
 /**
- * 商品详情
+ * 平台详情
  *
  */
 export function fetchGoodsDetail(data) {

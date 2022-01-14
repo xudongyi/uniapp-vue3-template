@@ -1,5 +1,5 @@
 /**
- * 商品类型
+ * 平台类型
  */
 export const goodsTypes = {
   PLAIN: 0, // 普通
