@@ -6,3 +6,10 @@ page {
     --calendar-selected-day-background-color:#035CAC;
 }
 */
+:root{
+    --main-color:#035CAC;/**自定义样式全局变量**/
+}
+page {
+    --cell-border-color:#035CAC;
+    --field-label-color:#035CAC
+}

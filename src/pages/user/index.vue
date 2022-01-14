@@ -1,6 +1,24 @@
 <template>
     <view class="container">
-        这是一个模板页面
+        <van-cell-group>
+            <van-field
+                    :value="state.form.passwordusername"
+                    required
+                    clearable
+                    label="用户名"
+                    icon="question-o"
+                    placeholder="请输入用户名"
+            />
+
+            <van-field
+                    :value="state.form.password"
+                    type="password"
+                    label="密码"
+                    placeholder="请输入密码"
+                    required
+                    :border="false"
+            />
+        </van-cell-group>
     </view>
 </template>
 
@@ -16,7 +34,9 @@
         name: 'Vue3 File',
         components: {},
         setup() {
-            const state = reactive({})
+            const state = reactive({
+                form:{}
+            })
             const store = useStore()
             onShow(() => {
                 console.log('onShow')

@@ -10,7 +10,7 @@
         </view>
         <view>
             <van-cell title="选择单个日期" :value="state.date" @click="onDisplay" />
-            <van-calendar color="#035CAC" :show="state.show" @close="onClose" @confirm="onConfirm" />
+            <van-calendar :color="state.cusThemes.mainColor" :show="state.show" @close="onClose" @confirm="onConfirm" />
         </view>
     </view>
 </template>
@@ -21,7 +21,7 @@
     import {AppActionTypes} from '@/store/modules/app/action-types'
     import {useStore, mapActions} from 'vuex'
     import {useMapState} from '@/hooks/useMapState'
-    import {IMAGE_URL, APP_NAME} from '@/config/app'
+    import {IMAGE_URL,CUS_THEMES, APP_NAME} from '@/config/app'
 
     export default defineComponent({
         name: 'Vue3 File',
@@ -30,6 +30,7 @@
             const { proxy } = getCurrentInstance() as any
             const state = reactive({
                 imageUrl: IMAGE_URL,
+                cusThemes: CUS_THEMES,
                 showBg: false,
                 display: 'block',
                 navTop: 0,

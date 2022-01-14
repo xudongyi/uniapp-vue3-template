@@ -28,6 +28,7 @@
         "van-grid": "/wxcomponents/@vant/weapp/dist/grid/index",
         "van-grid-item": "/wxcomponents/@vant/weapp/dist/grid-item/index"
         "van-calendar": "/wxcomponents/@vant/weapp/dist/calendar/index"
+        "van-field": "/wxcomponents/@vant/weapp/dist/field/index"
     }
   },
   "tabBar": {
